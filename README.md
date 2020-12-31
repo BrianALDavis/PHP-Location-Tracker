@@ -1,5 +1,7 @@
 # PHP Location Tracker
- A location tracking system written in PHP integrated with MS-SQL
+ A location tracking system written in PHP integrated with MS-SQL.
+ 
+ ![](Homepage.PNG)
  
  TODO for this project - Integrate with a remote SQL server to recreate functionality.
  Currently this is not functional to my knowledge.
